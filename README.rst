@@ -1,3 +1,7 @@
+**[DEPRECATED, UNMAINTAINED] This repository will be the starting point
+for removing certain functionality from neubot/neubot but apart from that
+will not be used/maintained further, consider it an experiment**
+
 Neubot, the network neutrality bot
 ``````````````````````````````````
 
